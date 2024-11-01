@@ -1,0 +1,71 @@
+----- Stop and Wait Network Simulator Version 1.1 --------
+
+Enter the number of messages to simulate: 10
+Enter packet loss probability [enter 0.0 for no loss]: 0.0  
+
+Enter packet corruption probability [0.0 for no corruption]: 0.0
+Enter average time between messages from sender's  
+ application layer [ > 0.0]: 500
+Enter Debug Level (0:off, 1:less, 2:more, >2:most): 0
+A_output: Sent packet 0
+A_output: Starting timer for packet 0
+B_input: Received packet 0
+B_input: Sent ACK 0
+A_input: Received valid ACK 0
+A_input: Stopping timer.
+A_output: Sent packet 1
+A_output: Starting timer for packet 1
+B_input: Received packet 1
+B_input: Sent ACK 1
+A_input: Received valid ACK 1
+A_input: Stopping timer.
+A_output: Sent packet 2
+A_output: Starting timer for packet 2
+B_input: Received packet 2
+B_input: Sent ACK 2
+A_input: Received valid ACK 2
+A_input: Stopping timer.
+A_output: Sent packet 3
+A_output: Starting timer for packet 3
+B_input: Received packet 3
+B_input: Sent ACK 3
+A_input: Received valid ACK 3
+A_input: Stopping timer.
+A_output: Sent packet 4
+A_output: Starting timer for packet 4
+B_input: Received packet 4
+B_input: Sent ACK 4
+A_input: Received valid ACK 4
+A_input: Stopping timer.
+A_output: Sent packet 5
+A_output: Starting timer for packet 5
+B_input: Received packet 5
+B_input: Sent ACK 5
+A_input: Received valid ACK 5
+A_input: Stopping timer.
+A_output: Sent packet 6
+A_output: Starting timer for packet 6
+B_input: Received packet 6
+B_input: Sent ACK 6
+A_input: Received valid ACK 6
+A_input: Stopping timer.
+A_output: Sent packet 7
+A_output: Starting timer for packet 7
+B_input: Received packet 7
+B_input: Sent ACK 7
+A_input: Received valid ACK 7
+A_input: Stopping timer.
+A_output: Sent packet 8
+A_output: Starting timer for packet 8
+B_input: Received packet 8
+B_input: Sent ACK 8
+A_input: Received valid ACK 8
+A_input: Stopping timer.
+A_output: Sent packet 9
+A_output: Starting timer for packet 9
+B_input: Received packet 9
+B_input: Sent ACK 9
+A_input: Received valid ACK 9
+A_input: Stopping timer.
+Simulator terminated at time 5000.132324
+after sending 10 msgs from app layer
